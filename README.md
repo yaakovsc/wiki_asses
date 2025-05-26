@@ -11,8 +11,8 @@
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yaakovsc/wiki-js-aws.git
-cd wiki-js-aws
+git clone https://github.com/yaakovsc/wiki_asses.git
+cd wiki_asses
 ```
 
 ### **2. Initialize Terraform**
